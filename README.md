@@ -67,10 +67,11 @@ There are a few options for using a custom style:
 ## Glamourous Projects
 
 Check out these projects, which use `glamour`:
-- [Glow](https://github.com/charmbracelet/glow), a markdown renderer for
-the command-line.
+
 - [GitHub CLI](https://github.com/cli/cli), GitHub’s official command line tool.
 - [GLab](https://github.com/profclems/glab), An open source GitLab command line tool.
+- [Glow](https://github.com/charmbracelet/glow), a markdown renderer for the command-line.
+- [Tea](https://gitea.com/gitea/tea), Official command line tool to interact with Gitea servers.
 
 ## License
 
